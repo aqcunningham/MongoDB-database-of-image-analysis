@@ -221,7 +221,7 @@ Measure the precision of the top 20 results returned by the query "new york" wit
 
 Describe any problems that you ran into in the course of this project
 
-### student Assel Omarova
+### student Aselle Cunningham
 
 # results from (analysis.RegexTokenizer())
 
